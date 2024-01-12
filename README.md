@@ -1,8 +1,6 @@
 # Yolo-Object-Detection-in-Drone
 Implementation of Yolo Object Detection 🔍 in Robomaster TT Drone 🚁 with display of detected object image in 8X8 LED matrix 🤖
 
-# DJI Robomaster TT Drone Object Detection 🤖📷
-
 ## Overview:
 In this project, I harnessed the power of the OpenCV library to seamlessly capture video frames from the DJI Robomaster TT drone. The primary objective was to implement the YOLO (You Only Look Once) object detection algorithm on these video frames and display the detection results in an 8x8 matrix LED display.
 
