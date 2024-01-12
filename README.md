@@ -18,6 +18,7 @@ In this project, I harnessed the power of the OpenCV library to seamlessly captu
 Check out the [demo video on YouTube](https://youtu.be/6W5bekA3qy4) to see the project in action!
 
 Feel free to explore the code and adapt it for your specific use case. If you have any questions or suggestions, don't hesitate to open an issue or reach out!
+[Don't forget to add yolo config and weight file before running the code](https://pjreddie.com/darknet/yolo/)
 
 Happy coding! 🚀👨‍💻
 
